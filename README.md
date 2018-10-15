@@ -1,0 +1,2 @@
+# RootUpgradeAd
+模拟Android广告机root下在线升级的功能
