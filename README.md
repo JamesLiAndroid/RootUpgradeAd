@@ -1,6 +1,9 @@
 # RootUpgradeAd
-模拟Android广告机root下在线升级的功能
+模拟Android广告机root下在线自动升级的功能
 
+## 前提
+
+开发板已经ROOT掉，而且未安装SuperSU这样的root管理工具
 
 ## 思路
 
